@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>before.xlsx</file>
+        <file>after.xlsx</file>
+    </qresource>
+</RCC>
